@@ -175,6 +175,12 @@ footer{
     padding: 20px;
 
 }
+footer .upper-footer p{
+    padding-left: .3em;
+}
+footer .lower-footer .lower-left-footer {
+    padding-left : .3em ;
+}
 .upper-footer{
     height: 50%;
     border-bottom: 1px solid lightgray;
